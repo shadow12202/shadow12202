@@ -16,7 +16,7 @@
 
 一个中文 AI Skill，帮助梳理事实、比较选项、检验风险，并形成有出处、可复盘的建议。
 
-[查看技能](https://github.com/shadow12202/key-decision-advisor/blob/main/SKILL.md) · [阅读完整案例](https://github.com/shadow12202/key-decision-advisor/blob/main/EXAMPLE.md) · [使用说明](https://github.com/shadow12202/key-decision-advisor#readme)
+[查看技能](https://github.com/shadow12202/key-decision-advisor/blob/main/SKILL.md) · [阅读完整案例](https://github.com/shadow12202/key-decision-advisor/blob/main/EXAMPLE.md) · [使用说明](https://github.com/shadow12202/key-decision-advisor/blob/main/README.md)
 
 ## 交流与反馈
 
